@@ -1,4 +1,4 @@
 # DACON
 
-* 235876 : tabular/Accuracy/multiclass classification
-* 235877 : tabular/NMAE/regression
+* 235876 : Tabular / Accuracy / Multiclass Classification
+* 235877 : Tabular / NMAE / Regression
