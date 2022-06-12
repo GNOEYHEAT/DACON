@@ -6,5 +6,7 @@
 * 235893 (Basic) : Tabular / NMAE / Regression
 * 235894 (Monthly) : Image / macro-f1 / 88-class Classification, Supervised Anomaly Detection
 * 235896 (Basic) : Image / Accuracy / 11-class Classification
-* 235900 (Text) : Text / Accuracy / Semantic Similarity
+* 235900 (Monthly) : Text / Accuracy / Semantic Similarity
 * 235901 (Basic) : Tabular / NMAE / Regression
+* 235905 (Basic) : Audio / Accuracy / Classification
+* 235910 (Monthly) : Audio + Tabular / macro-f1 / Classification
