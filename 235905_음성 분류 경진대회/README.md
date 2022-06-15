@@ -1,4 +1,4 @@
-# 235896_수화 이미지 분류 경진대회
+# 235905_음성 분류 경진대회
 https://dacon.io/competitions/official/235905/overview/description
 
 
