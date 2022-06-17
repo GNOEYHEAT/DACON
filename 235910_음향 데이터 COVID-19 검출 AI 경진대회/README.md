@@ -1,9 +1,9 @@
-# 235905_음성 분류 경진대회
-https://dacon.io/competitions/official/235905/overview/description
+# 235910_음향 데이터 COVID-19 검출 AI 경진대회
+https://dacon.io/competitions/official/235910/overview/description
 
 
 ## Dataset
-* Download the DACON_235905 from [Here](https://drive.google.com/drive/folders/1wIB8zvZYpQE6Ij4yHDWCMOMPYz2G6WNH)
+* Download the DACON_235910 from [Here](https://drive.google.com/file/d/1wRU01T59GmnEWZcC3oxDwaW3P3eKHn2_/view)
 
 ## Data structure
 <pre><code>
