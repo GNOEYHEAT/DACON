@@ -7,7 +7,7 @@ https://dacon.io/competitions/official/235910/overview/description
 
 ## Data structure
 <pre><code>
-DACON_235905
+DACON_235910
 ├── data
 ├── load_model
       .
