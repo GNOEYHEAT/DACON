@@ -1,13 +1,13 @@
-# 235896_수화 이미지 분류 경진대회
+# 235900_코드 유사성 판단 AI 경진대회
 https://dacon.io/competitions/official/235896/overview/description
 
 
 ## Dataset
-* Download the DACON_235896 from [Here](https://drive.google.com/file/d/16r_EpYQT3W5zew2T511q4DGqbLL5cXIB/view)
+* Download the DACON_235900 from [Here](https://drive.google.com/file/d/1Mr0mg3X7_SPaMoCZGChX1LexPkgUFRy0/view)
 
 ## Data structure
 <pre><code>
-DACON_235896
+DACON_235900
 ├── data
 ├── load_model
       .
