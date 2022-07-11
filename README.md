@@ -11,3 +11,4 @@
 * 235905 (Basic) : Audio / Accuracy / Classification
 * 235910 (Monthly) : Audio + Tabular / macro-f1 / Classification
 * 235938 (Basic) : Text / Accuracy / 4-class Classification
+* 235942 (Basic) : Tabular / RMSE / Regression
