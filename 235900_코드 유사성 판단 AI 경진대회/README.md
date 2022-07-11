@@ -1,5 +1,5 @@
 # 235900_코드 유사성 판단 AI 경진대회
-https://dacon.io/competitions/official/235896/overview/description
+https://dacon.io/competitions/official/235900/overview/description
 
 
 ## Dataset
