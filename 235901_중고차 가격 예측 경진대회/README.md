@@ -1,5 +1,5 @@
-# 235942_쇼핑몰 지점별 매출액 예측 경진대회
-https://dacon.io/competitions/official/235942/overview/description
+# 235901_중고차 가격 예측 경진대회
+https://dacon.io/competitions/official/235901/overview/description
 
 
 ## Dataset
