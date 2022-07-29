@@ -1,15 +1,14 @@
-# 235942_쇼핑몰 지점별 매출액 예측 경진대회
-https://dacon.io/competitions/official/235942/overview/description
+# 235938_쇼핑몰 리뷰 평점 분류 경진대회
+https://dacon.io/competitions/official/235938/overview/description
 
 
 ## Dataset
-* Download the kaggle datasets from [Here](https://www.kaggle.com/datasets/manjeetsingh/retaildataset)
+* Download the DACON_235938 from [Here](https://drive.google.com/file/d/1iK56MbgFG-iubrltAQaVSCKg7HFBvvlb/view?pli=1)
 
 ## Data structure
 <pre><code>
-DACON_235942
+DACON_235938
 ├── data
-├── kaggle
       .
       .
       .
